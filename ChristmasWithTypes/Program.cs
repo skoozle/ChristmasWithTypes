@@ -10,14 +10,14 @@ namespace ChristmasWithTypes
 
             var xmasDay = Christmas.Day.Thursday;
 
-            //DONE set Santa's name to Kris Kringle
-            xmas.Santa = "Kris Kringle";
+            //DONE set Santa's name to Krampus
+            xmas.Santa = "ole fat ass";
 
             //DONE Insert 3 presents you would like for xmas.  They must be strings
-            xmas.Presents =  new string[3]{ "fishtank", "hermit crabs", "lava lamp for hermit crab tank" }; 
+            xmas.Presents =  new string[3]{ "420 hula hoops", "69 live alligators", "actual mfn lava" }; 
 
-            //DONE Set the TreeHeight to 10
-            xmas.TreeHeight = 10;
+            //DONE Set the TreeHeight to 69
+            xmas.TreeHeight = 69;
 
             Console.WriteLine($"This year christmas falls on {xmasDay} \n");
             Console.WriteLine($"Our tree will be {xmas.TreeHeight} feet high \n");
